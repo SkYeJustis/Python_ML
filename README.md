@@ -1,2 +1,3 @@
-# Python_ML
-Sample code and examples
+# Python Sample Code
+Sample machine learning code examples
+Sample file  manipulation code examples
